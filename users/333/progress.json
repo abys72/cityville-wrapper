@@ -1,0 +1,121 @@
+{
+    "active": {
+        "q_charlie_train": {
+            "name": "q_charlie_train",
+            "complete": 0,
+            "progress": [
+                0
+            ],
+            "purchased": [
+                0
+            ]
+        },
+        "q_steady_income": {
+            "name": "q_steady_income",
+            "complete": 0,
+            "progress": [
+                5,
+                0
+            ],
+            "purchased": [
+                1,
+                0
+            ]
+        },
+        "q_rita_cont2": {
+            "name": "q_rita_cont2",
+            "complete": 0,
+            "progress": [
+                0,
+                0
+            ],
+            "purchased": [
+                0,
+                0
+            ]
+        },
+        "q_place_to_play": {
+            "name": "q_place_to_play",
+            "complete": 0,
+            "progress": [
+                0,
+                0
+            ],
+            "purchased": [
+                0,
+                0
+            ]
+        },
+        "q_elected_mayor": {
+            "name": "q_elected_mayor",
+            "complete": 0,
+            "progress": [
+                240,
+                2
+            ],
+            "purchased": [
+                0,
+                0
+            ]
+        },
+        "q_time_capsule2": {
+            "name": "q_time_capsule2",
+            "complete": 0,
+            "progress": [
+                0,
+                0
+            ],
+            "purchased": [
+                0,
+                0
+            ]
+        }
+    },
+    "completed": [
+        "q_rename_city",
+        "q_pop_news_tutorial",
+        "q_build_neighborhood",
+        "q_welcome_train",
+        "q_build_business_guide",
+        "q_plant_and_harvest",
+        "q_place_statue",
+        "q_collect_rent",
+        "q_plant_flag",
+        "q_pop_news_growth",
+        "q_more_businesses",
+        "q_place_town_hall",
+        "q_pop_news_mayor_nominated",
+        "q_clear_the_forest",
+        "q_time_capsule1",
+        "q_rita_garden",
+        "q_edgar_burger",
+        "q_visit_neighbor4",
+        "q_build_chateau",
+        "q_train1",
+        "q_family_lodge",
+        "q_scout_competition",
+        "q_train2",
+        "q_visit_neighbor",
+        "q_expanding_ventures",
+        "q_family_feast",
+        "q_train3",
+        "q_train4",
+        "q_move_business",
+        "q_place_hq",
+        "q_earn_star",
+        "q_mayor_prep",
+        "q_expand_further",
+        "c_expand_city",
+        "q_please_the_citizens",
+        "q_pigeon1",
+        "q_increase_pop",
+        "q_news_halfway_elections",
+        "q_pigeon2",
+        "q_build_school",
+        "q_rita_cont1",
+        "q_pigeon3",
+        "q_news_election_polls",
+        "q_pigeon4"
+    ],
+    "pending": []
+}
